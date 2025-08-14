@@ -1,0 +1,24 @@
+# Core Python packages
+numpy
+scipy
+pillow
+python-dotenv
+
+# ASR
+whisper
+
+# TTS
+gTTS
+
+# LLM & API
+groq
+
+# Vector search & embeddings
+faiss-cpu
+sentence-transformers
+
+# Web UI
+streamlit
+
+# Optional: For PDF documents in knowledge base
+PyPDF2
