@@ -22,3 +22,8 @@ streamlit
 
 # Optional: For PDF documents in knowledge base
 PyPDF2
+streamlit
+sounddevice
+numpy
+scipy
+pyttsx3
