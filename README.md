@@ -1,3 +1,15 @@
+---
+title: NexaTalk - Voice Assistant
+emoji: 🗣️
+colorFrom: pink
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.36.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # NexaTalk: Next-Gen Talking Assistant
 
 ## Problem Statement

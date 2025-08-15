@@ -81,7 +81,7 @@ if st.button("🎤 Start Conversation"):
         cleaned_text = re.sub(r"[^\w\s]", "", user_text.lower())
         if any(word in cleaned_text for word in stop_words):
             st.markdown(
-                "<h1 style='text-align: center; color: red;'>👋 Conversation ended.</h1>",
+                "<h1 style='text-align: center; color: red;'>👋 Conversation Ended, Thank You.</h1>",
                 unsafe_allow_html=True
             )
             break
